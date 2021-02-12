@@ -1,0 +1,4 @@
+ruleName,itemId,finalPrice,ruleCondition
+BUY_N_ITEM_X_GET_M_ITEMS_Y,13,,2
+BUY_N_ITEM_X_GET_M_ITEMS_Y,14,,
+BUY_N_ITEM_X_GET_M_ITEMS_Y,14,,1
